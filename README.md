@@ -23,7 +23,7 @@ A modern, user-centric Pokédex built with React, TypeScript, and Bootstrap. Sea
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/upenderdeshaboina/pokemon-assignment.git](https://github.com/upenderdeshaboina/pokemon-assignment.git)
+   git clone https://github.com/upenderdeshaboina/pokemon-assignment.git
    cd pokemon-assignment
    ```
 2. **Install dependencies**
